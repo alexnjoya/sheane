@@ -1,0 +1,13 @@
+@media only screen and (max-width: 992px){
+    .clock_wrapper{
+        justify-content: center;
+    }
+    .clock_data h1{
+        font: size 1.1em !important;
+
+    }
+    .clock_data h{
+        font: size 0.5rem !important;
+
+    }
+}
